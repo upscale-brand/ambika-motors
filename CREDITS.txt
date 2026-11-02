@@ -1,0 +1,11 @@
+Vehicle images: Unsplash, used under the Unsplash license https://unsplash.com/license . Illustrative only, not Ambika Motors inventory.
+Hero: https://images.unsplash.com/photo-1549317661-bd32c8ce0db2
+Hatchback: https://images.unsplash.com/photo-1471444928139-48c5bf5173f8
+SUV: https://images.unsplash.com/photo-1519641471654-76ce0107ad1b
+Sedan: https://images.unsplash.com/photo-1502877338535-766e1452684a
+Icons: Lucide, ISC license https://lucide.dev/license
+Fonts: Barlow Condensed, DM Sans, Space Grotesk, Google Fonts, SIL Open Font License. See assets/fonts/OFL files.
+Video clips (assets/video): AI-generated illustrative footage and photographs created for this website. They are not recordings of Ambika Motors premises or stock.
+Hero loop: generated car lot footage. Lot band and inspection clips: generated stills with subtle camera motion.
+Walkaround photo (assets/walkaround-car.jpg): AI-generated illustrative image created for this website. It is not a photograph of Ambika Motors stock.
+Logo (assets/logo.png, assets/logo-animated.mp4, favicon.ico): Supplied by Ambika Motors.
